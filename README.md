@@ -1,5 +1,4 @@
 # Text-to-Animation Agent
-### IISc Computational Intelligence Lab — Internship Assignment
 
 ## Overview
 An AI agent that takes any STEM concept as text input and automatically generates a 9:16 vertical animated explainer video — reel-style, like an educational Instagram/YouTube Short.

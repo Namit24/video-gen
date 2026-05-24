@@ -1,6 +1,6 @@
 scene.py
 media/
-pycache/
+__pycache__/
 .env
 *.pyc
 *.pyo
