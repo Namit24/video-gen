@@ -6,3 +6,4 @@ pycache/
 *.pyo
 .DS_Store
 outputs/*.mp4
+agents.md
