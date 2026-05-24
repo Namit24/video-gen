@@ -1,3 +1,8 @@
+scene.py
+media/
+pycache/
 .env
-agents.md
-__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+outputs/*.mp4
